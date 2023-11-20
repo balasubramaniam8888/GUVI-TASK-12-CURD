@@ -2,6 +2,7 @@
 <BR>
 DEPLOYED STITE LINKS
 SITE1(*STRANGER-THINGS-QUOTES-GENERATOR*)
+<BR>
 https://vercel.com/balasubramaniam-s-projects/task-12-2/4H82h4wpTTEWKfcmGLhXuJGdnhMj
 SITE2(*BRAZIL-VEHICLE-LIST*)
 https://vercel.com/balasubramaniam-s-projects/guvi-task-12-curd-hy1d/GuNQ354pd1GtqZhXCsEeAbPANnxv
